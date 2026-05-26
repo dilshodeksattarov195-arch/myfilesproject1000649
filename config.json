@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfender",
+        "uuid": 5632671,
+        "checksum": "ij037q"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
